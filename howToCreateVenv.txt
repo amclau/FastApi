@@ -1,0 +1,5 @@
+py -3 -m venv venv
+
+ctrl+shift+p .\venv\Scripts\python.exe
+
+open command line (START ACTIVATE.bat FILE)
